@@ -1,7 +1,6 @@
 aid: ninth-wave
 name: Ninth Wave
-description: 'Ninth Wave is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog)
-  and added to the network as a stub for full-pipeline profiling.'
+description: 'Ninth Wave provides open finance software solutions that enable secure data exchange through a single integration point. Their platform connects financial institutions, fintechs, and developers to streamline data connectivity, compliance, and API-driven services, supporting open banking, data aggregation, and secure transaction processing.'
 url: https://raw.githubusercontent.com/api-evangelist/ninth-wave/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:g2-catalog
@@ -12,12 +11,32 @@ created: '2026-10-21'
 modified: '2026-10-21'
 tags:
 - Company
-apis: []
+- Finance
+- Open Banking
+- Data Integration
+- API Platform
+- FinTech
+apis:
+- name: Ninth Wave API
+  description: "Open finance API platform for secure data exchange, supporting open banking and embedded finance."
+  humanURL: https://docs.ninth-wave.com/register
+  baseURL: null
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/ninth-wave-domain-security.yml
 - type: Website
   url: https://ninth-wave.com/
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Docs page renders a JavaScript shell with no machine‑readable spec.
+  evidence:
+    - url: https://docs.ninth-wave.com/register
+      status: 200
+  checked: 2026-10-21
