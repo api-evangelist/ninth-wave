@@ -1,0 +1,16 @@
+generated: '2026-10-21'
+method: none
+source:
+- https://zapier.com/apps/ninth-wave/integrations
+- https://n8n.io/integrations/ninth-wave/
+- https://composio.dev/toolkits/ninth-wave
+- https://monid.ai/tools/ninth-wave
+checked:
+- https://composio.dev/toolkits/ninth-wave
+- https://monid.ai/tools/ninth-wave
+- https://n8n.io/integrations/ninth-wave/
+- https://zapier.com/apps/ninth-wave/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

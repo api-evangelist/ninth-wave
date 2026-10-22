@@ -8,6 +8,11 @@ hosts:
   cert_expires: Dec 10 17:02:19 2026 GMT
   hsts: true
   hsts_max_age: 31536000
+- host: docs.ninth-wave.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Mar  4 23:59:59 2027 GMT
+  hsts: null
 domains:
 - domain: ninth-wave.com
   dnssec: false

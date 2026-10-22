@@ -1,14 +1,28 @@
 aid: ninth-wave
+
 name: Ninth Wave
-description: 'Ninth Wave provides open finance software solutions that enable secure data exchange through a single integration point. Their platform connects financial institutions, fintechs, and developers to streamline data connectivity, compliance, and API-driven services, supporting open banking, data aggregation, and secure transaction processing.'
+
+image: https://ninth-wave.com/wp-content/uploads/2024/05/9W_compliance-graphics-01-1024x1014.png
+
+description: Ninth Wave provides open finance software solutions that enable secure data exchange through a single integration point. Their platform
+  connects financial institutions, fintechs, and developers to streamline data connectivity, compliance, and API-driven services, supporting open
+  banking, data aggregation, and secure transaction processing.
+
 url: https://raw.githubusercontent.com/api-evangelist/ninth-wave/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:g2-catalog
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-21 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-21'
+
 modified: '2026-10-21'
+
 tags:
 - Company
 - Finance
@@ -16,27 +30,55 @@ tags:
 - Data Integration
 - API Platform
 - FinTech
-apis:
-- name: Ninth Wave API
-  description: "Open finance API platform for secure data exchange, supporting open banking and embedded finance."
-  humanURL: https://docs.ninth-wave.com/register
-  baseURL: null
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/ninth-wave-llms.txt
+- type: Hosts
+  url: hosts/ninth-wave-hosts.yml
+- type: Vendors
+  url: vendors/ninth-wave-vendors.yml
+- type: PrivacyPolicy
+  url: https://ninth-wave.com/privacy
+- type: Newsroom
+  url: https://ninth-wave.com/press/
+- type: Leadership
+  url: https://ninth-wave.com/leadership/
+- type: Blog
+  url: https://ninth-wave.com/blog/
+- type: Documentation
+  url: https://developer.ninth-wave.com/
+- type: GitHubOrganization
+  url: https://github.com/ninth-wave
 - type: DomainSecurity
   url: security/ninth-wave-domain-security.yml
 - type: Website
   url: https://ninth-wave.com/
+
+apis:
+- name: Ninth Wave API
+  description: Open finance API platform for secure data exchange, supporting open banking and embedded finance.
+  humanURL: https://docs.ninth-wave.com/register
+  baseURL: null
+  aid: ninth-wave:ninth-wave-api
 
 x-coverage:
   state: unreadable
   reason: js-rendered-docs
   detail: Docs page renders a JavaScript shell with no machine‑readable spec.
   evidence:
-    - url: https://docs.ninth-wave.com/register
-      status: 200
-  checked: 2026-10-21
+  - url: https://docs.ninth-wave.com/register
+    status: 200
+  checked: '2026-10-21'
+x-enrichment:
+  date: '2026-10-21'
+  status: enriched
+  artifacts_added: 6
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

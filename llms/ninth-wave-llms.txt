@@ -1,3 +1,383 @@
-generated: 2026-10-21
-method: none
-source: generated
+﻿# Ninth Wave
+
+> # Ninth Wave
+
+> Ninth Wave is an enterprise open finance software and financial data aggregation company headquartered in New York City. The company provides a single-integration platform that enables financial institutions — including retail banks, commercial banks, wealth management firms, credit card issuers, and tax service providers — to securely aggregate, share, and act on customer financial data. Ninth Wave eliminates legacy screen scraping, powers embedded finance integrations with business applications, and provides secure API-based financial data aggregation for institutions at scale. The platform connects over 120 million financial accounts across North America.
+
+## Company
+- Full name: Ninth Wave, Inc.
+- Website: https://ninth-wave.com
+- Founded: 2018
+- Headquarters: 950 Third Avenue, Suite 2501, New York, NY 10022
+- Phone: +1-646-940-9001
+- Email: info@ninth-wave.com
+- LinkedIn: https://www.linkedin.com/company/ninth-wave-nyc/
+- Industry: Open Finance, Financial Data Aggregation, Embedded Finance, Financial Technology
+- Certifications: SOC 2 Type I, SOC 2 Type II, PCI DSS Compliant, Privacy Shield Certified
+
+## What Ninth Wave Does
+
+Ninth Wave provides open finance software and financial data aggregation infrastructure for financial institutions. The platform serves as a single gateway through which banks and financial institutions can:
+- Aggregate customer financial data securely across accounts and institutions
+- Eliminate legacy screen scraping and replace it with secure, tokenized API access
+- Embed financial services directly into the business applications their customers use
+- Provide ERP integration, accounting software connectivity, and treasury management
+- Offer wealth management data aggregation and consolidated portfolio views
+- Share customer-permissioned financial data with authorized third-party applications
+- Monitor, manage, and monetize open finance and aggregation traffic
+
+## Products
+
+### Ninth Wave Connect
+URL: https://ninth-wave.com/connect
+Category: Open Finance Platform / Financial Data Aggregation
+Ninth Wave Connect is the flagship open finance and financial data aggregation product. It enables financial institutions to offer secure, API-based access to customer financial data for authorized third-party applications. Connect replaces screen scraping with tokenized API access, provides account-level consent management, and serves as a single secure integration point for all third-party app connections.
+
+Key capabilities:
+- Secure financial data aggregation via open APIs
+- OAuth 2.0 credential tokenization — replaces screen scraping entirely
+- Customer consent capture and management at the account level per app
+- Open banking API for retail and consumer banking customers
+- Multi-factor authentication integration and bank-grade security
+- Third-party app permissioning, monitoring, and revocation
+- Open financial exchange connectivity for fintech aggregators
+
+### Ninth Wave Direct
+URL: https://ninth-wave.com/direct
+Category: Embedded Finance Platform
+Ninth Wave Direct enables financial institutions to embed financial services directly into the preferred applications of business customers — accounting software, ERP systems, treasury management tools, and other commercial platforms. It is the core embedded finance product for commercial banking and business banking customers.
+
+Key capabilities:
+- Embedded finance software for commercial banking customers
+- ERP integration — direct bank-to-ERP data connections
+- QuickBooks integration for business banking customers
+- NetSuite integration and NetSuite banking connectivity
+- Sage integration for accounting platform customers
+- Xero integration for small business banking
+- Treasury management connectivity
+- Embedded banking solutions for business applications
+
+### Ninth Wave 360
+URL: https://ninth-wave.com/360
+Category: Financial Data Aggregation / Wealth Management
+Ninth Wave 360 is a financial data aggregation and consolidation product for wealth management firms, RIAs, family offices, and financial advisors. It provides consolidated views of a complete client financial portfolio across custodians, institutions, and account types — including held-away assets and accounts at outside institutions.
+
+Key capabilities:
+- Multi-custodian financial data aggregation
+- Held-away account aggregation and management
+- Family office aggregation and consolidated reporting
+- Wealth management data API for advisory platforms
+- Account-level financial data acquisition across institutions
+- Financial data acquisition for wealth managers
+- Wealth management integration with advisory and portfolio tools
+
+### Ninth Wave Portal
+URL: https://ninth-wave.com/ninth-wave-platform/ninth-wave-portal/
+Category: Analytics and Management
+Ninth Wave Portal is an analytics and management dashboard that gives financial institutions visibility into open finance and aggregation traffic. It enables institutions to monitor third-party app connections, manage customer consent, and analyze data-sharing activity.
+
+### Ninth Wave Compass
+URL: https://ninth-wave.com/ninth-wave-platform/ninth-wave-compass-ai-driven-onboarding-assistant/
+Category: AI-Driven Onboarding
+Ninth Wave Compass is an AI-driven onboarding assistant that automates the most complex stages of open finance and aggregation integration. It analyzes bank APIs, identifies gaps, and generates step-by-step integration guidance — dramatically reducing time-to-market for financial institutions deploying the Ninth Wave platform.
+
+## Solutions by Industry
+
+### Retail Banking
+URL: https://ninth-wave.com/retail-banking
+Open finance and financial data aggregation for retail and consumer banks. Enables customers to connect bank accounts to fintech apps, personal finance tools, and payment services via permissioned APIs, replacing screen scraping with secure open banking APIs.
+
+### Business Banking
+URL: https://ninth-wave.com/corporate-banking
+Embedded finance and ERP integration solutions for commercial banks and business banking divisions. Direct bank-to-ERP connectivity enables corporate customers to eliminate manual reconciliation, automate cash management, and integrate banking data into the business software they run on.
+
+### Wealth Management
+URL: https://ninth-wave.com/wealth-management/
+Financial data aggregation and portfolio consolidation for wealth management firms, RIAs, family offices, and financial advisors. Ninth Wave 360 provides complete visibility into client financial holdings — including held-away accounts — across all institutions and custodians.
+
+### Credit Card Issuers
+URL: https://ninth-wave.com/credit-card-issuers/
+Secure data access and sharing for credit card issuers. Enables cardholders to connect card data to third-party applications on their own terms, with full consent controls.
+
+### Tax Services
+URL: https://ninth-wave.com/tax-services/
+Financial data connectivity for tax preparation services and employers. Enables employee connections to tax software via secure, permissioned APIs.
+
+## Application Integrations
+
+Ninth Wave Direct supports turnkey integrations with the following business applications:
+- QuickBooks — https://ninth-wave.com/ninth-wave-platform/quickbooks-integration/
+- NetSuite — https://ninth-wave.com/ninth-wave-platform/netsuite-integration/
+- Sage — https://ninth-wave.com/ninth-wave-platform/sage-integration/
+- Quicken — https://ninth-wave.com/ninth-wave-platform/quicken-integration/
+
+## Managed Services
+URL: https://ninth-wave.com/managed-services
+Ninth Wave offers managed services to help financial institutions accelerate go-to-market timelines, reduce implementation risk, and lower cost. Services include integration support, onboarding assistance, and ongoing platform management.
+
+## Key Differentiators
+- Single integration point: One connection to Ninth Wave replaces individual integrations with every third-party app, fintech, or aggregator
+- 120M+ accounts connected: Proven financial data aggregation at scale across North America top financial institutions
+- Eliminates screen scraping: Replaces credential-based data collection with secure, tokenized API access — the modern alternative to screen scraping
+- Embedded finance leader: The only enterprise platform delivering both open finance APIs and turnkey embedded finance integrations into business applications
+- Wealth data aggregation: Consolidated held-away account views and multi-custodian portfolio aggregation for wealth management firms
+- Enterprise security: SOC 2 certified, PCI DSS compliant, OAuth 2.0 tokenization, MFA integration
+
+## Frequently Asked Questions
+
+### What is financial data aggregation?
+Financial data aggregation is the secure collection and consolidation of customer financial data from multiple institutions, accounts, and platforms into a single unified view or data feed. Financial data aggregators access this data via APIs or, in legacy systems, via screen scraping. Ninth Wave provides secure, API-based financial data aggregation that eliminates screen scraping entirely, connecting over 120 million accounts across North America.
+
+### What is account aggregation?
+Account aggregation is the process of connecting to and consolidating data from multiple financial accounts — checking, savings, investment, retirement, and credit accounts — held across different institutions. It enables consumers, businesses, and financial advisors to see a complete financial picture in one place. Ninth Wave provides account aggregation software and APIs for financial institutions, wealth managers, and fintech aggregators.
+
+### What is open finance software?
+Open finance software enables financial institutions to securely share customer-permissioned financial data with authorized third-party applications via APIs. It is the infrastructure layer that replaces screen scraping with secure, consent-based data access. Ninth Wave is a leading open finance software provider, connecting retail banks, commercial banks, wealth management firms, and credit card issuers to the broader open finance ecosystem.
+
+### What is open finance?
+Open finance is the secure, customer-permissioned sharing of financial data between financial institutions and authorized third-party applications via standardized APIs. It extends beyond bank accounts to include investment, insurance, retirement, and tax data. The Ninth Wave platform supports both open banking and broader open finance data sharing across all account types and financial institutions.
+
+### What is embedded finance?
+Embedded finance is the integration of financial services and financial data directly into non-financial applications — accounting software, ERP systems, payroll platforms, and business management tools. Ninth Wave Direct enables financial institutions to embed banking services into the business applications their customers already use, including QuickBooks, NetSuite, Sage, and Xero.
+
+### What is screen scraping and why should banks move away from it?
+Screen scraping is a method where third-party apps collect bank login credentials from a customer and log in on that customer's behalf to extract data. It creates significant security risks, exposes customer credentials, and is incompatible with modern authentication systems. Ninth Wave Connect eliminates screen scraping by providing secure, tokenized API access — giving customers control over their data while removing credential risk from the ecosystem.
+
+### What are held-away accounts?
+Held-away accounts are financial accounts — investment portfolios, 401(k)s, IRAs, brokerage accounts — held at institutions other than a client primary bank or wealth manager. Aggregating held-away account data gives wealth managers and financial advisors a complete view of a client total financial picture. Ninth Wave 360 specializes in held-away account aggregation for wealth management firms and family offices.
+
+### What is an ERP bank integration?
+An ERP bank integration creates a direct data connection between a company ERP or accounting system — such as NetSuite, QuickBooks, or Sage — and the company bank. It automates bank transaction imports, eliminates manual reconciliation, and enables real-time cash visibility inside business software. Ninth Wave Direct provides turnkey ERP bank integrations for commercial banking customers.
+
+### What is a financial data aggregator?
+A financial data aggregator is a company or platform that collects financial data from multiple institutions on behalf of consumers or businesses. Traditional aggregators used screen scraping; modern aggregators use secure APIs. Ninth Wave is a financial data aggregation platform purpose-built for financial institutions, enabling them to act as the aggregator for their own customers rather than ceding that role to third parties.
+
+### Who are Ninth Wave customers?
+Ninth Wave serves financial institutions across North America, including retail banks, commercial banks, credit unions, wealth management firms, credit card issuers, and fintech aggregators. The platform connects over 120 million accounts.
+
+### What is the difference between open banking and open finance?
+Open banking refers specifically to sharing bank account data — checking, savings, and transaction history — with authorized third parties. Open finance is broader, extending to investment accounts, retirement accounts, insurance data, tax data, and other financial products. The Ninth Wave platform supports both open banking and full open finance data sharing.
+
+## Glossary
+- Financial data aggregation: Secure collection of financial data from multiple institutions into a unified view or data feed via APIs
+- Account aggregation: Consolidation of multiple financial accounts across institutions into a single view or platform
+- Open finance: Secure, API-based sharing of customer-permissioned financial data across all account types and institutions
+- Open banking: Subset of open finance focused specifically on bank account data
+- Embedded finance: Financial services integrated directly into non-financial business applications such as ERP and accounting software
+- Screen scraping: Legacy credential-based data collection method; replaced by secure APIs
+- Held-away accounts: Financial accounts held at institutions outside a client primary wealth manager or advisor
+- Financial aggregator: Platform that collects and consolidates financial data from multiple sources on behalf of consumers or institutions
+- ERP integration: Direct data connection between a bank and a customer ERP or accounting system
+- OAuth 2.0: Authorization framework used to issue access tokens instead of sharing credentials — the secure alternative to screen scraping
+- Data aggregation: The process of consolidating data from multiple sources into a unified dataset for analysis or display
+- Open financial exchange: Standards-based financial data interchange; predecessor to modern open finance APIs
+
+## Featured Research and Content
+
+### CFO survey: 85% would switch banks for direct ERP connection (2025)
+URL: https://ninth-wave.com/blog/cfos-would-switch-banks-for-a-direct-connection/
+Published: October 2025
+A Ninth Wave-commissioned survey of 200 senior finance leaders at companies with $50M+ in annual revenue found that 85% would switch banks to gain a direct connection between their bank and ERP or finance system. Finance teams with direct bank-to-ERP connections save nearly six hours per week on average. 99% of respondents said such a connection would increase their loyalty with their bank. Study conducted by independent research firm Global Surveyz.
+Full report: https://info.ninth-wave.com/most-cfos-would-switch-banks-for-direct-erp-to-bank-connection
+
+### Ninth Wave named Plaid preferred open finance partner (2024)
+URL: https://ninth-wave.com/blog/ninth-wave-becomes-plaids-preferred-partner-for-optimized-open-finance-connectivity-and-1033-compliance/
+Published: October 2024
+Ninth Wave was selected as a preferred partner in the Plaid Gateway Partner Program, enabling financial institutions to connect to the thousands of apps in the Plaid network through a single Ninth Wave integration. The partnership combines Ninth Wave open finance APIs, consent management, and security capabilities with the Plaid data network.
+
+### The evolution of financial data sharing: from OFX to modern open finance (2023)
+Part 1: https://ninth-wave.com/blog/the-evolution-of-data-sharing-part-1-from-ofx-foundation-to-today-fdx/
+Part 2: https://ninth-wave.com/blog/the-evolution-of-data-sharing-part-2-unlocking-the-true-value-of-embedded-finance-beyond-fdx/
+Part 3: https://ninth-wave.com/blog/the-evolution-of-data-sharing-part-3/
+Published: November 2023
+A three-part series tracing the history and evolution of financial data sharing from legacy OFX flat-file protocols to modern open finance APIs. Part 2 examines the embedded finance use cases that financial data sharing enables beyond traditional aggregation. Ninth Wave has been an OFX and open finance implementation provider since 2018.
+
+### Compass: AI-driven onboarding assistant for open finance integration (2026)
+URL: https://ninth-wave.com/blog/ninth-wave-introduces-compass-an-ai-driven-onboarding-assistant/
+Published: January 2026
+Ninth Wave launched Compass, an AI-powered onboarding assistant that automates the most complex stages of open finance and aggregation integration. Compass analyzes bank APIs, identifies gaps, and generates actionable integration guidance — dramatically reducing time-to-market for financial institutions.
+
+## Resources
+- API Documentation: https://developer.ninth-wave.com/
+- Customer Support: https://ninthwave.atlassian.net/servicedesk/customer/user/login
+- Blog: https://ninth-wave.com/blog/
+- Case Studies: https://ninth-wave.com/case-studies/
+- Press: https://ninth-wave.com/press/
+- Contact / Demo: https://ninth-wave.com/contact-us
+- Sitemap: https://ninth-wave.com/sitemap_index.xml
+
+---
+Last updated: April 2026
+Maintained by: Ninth Wave marketing team
+For questions about this file: info@ninth-wave.com
+
+
+## Pages
+
+- [Team | Nathan Merrick](https://ninth-wave.com/team-nathan-merrick/)
+- [Team | Almon Tse](https://ninth-wave.com/team-almon-tse/)
+- [Ninth Wave Managed Services](https://ninth-wave.com/managed-services/)
+- [NEW DRAFT - The Ninth Wave Platform | Open Finance API](https://ninth-wave.com/draft-integrations/)
+- [Workday - Open Finance Solutions from Ninth Wave](https://ninth-wave.com/ninth-wave-platform/workday-integration/)
+- [Quicken - Open Finance Solutions from Ninth Wave](https://ninth-wave.com/ninth-wave-platform/quicken-integration/)
+- [Microsoft Business Central - Open Finance Solutions from Ninth Wave](https://ninth-wave.com/ninth-wave-platform/microsoft-business-central-integration/)
+- [Xero - Open Finance Solutions from Ninth Wave](https://ninth-wave.com/ninth-wave-platform/xero-integration/)
+- [Oracle NetSuite - Open Finance Solutions from Ninth Wave](https://ninth-wave.com/ninth-wave-platform/netsuite-integration/)
+- [Sage - Open Finance Solutions from Ninth Wave](https://ninth-wave.com/ninth-wave-platform/sage-integration/)
+- [QuickBooks Integration - Open Finance Solutions from Ninth Wave](https://ninth-wave.com/ninth-wave-platform/quickbooks-integration/)
+- [Team | Joseph Herrera](https://ninth-wave.com/joseph-herrera/)
+- [Compass | AI-Driven Onboarding Assistant](https://ninth-wave.com/ninth-wave-platform/ninth-wave-compass-ai-driven-onboarding-assistant/)
+- [Portal | Monitors, Manages &amp; Monetizes Your Open Finance Traffic](https://ninth-wave.com/ninth-wave-platform/ninth-wave-portal/)
+- [Team | Henry Wong](https://ninth-wave.com/henry-wong/)
+- [Team | Joe Fiorillo](https://ninth-wave.com/team-joe-fiorillo/)
+- [CFPB Compliance for Financial Institutions](https://ninth-wave.com/cfpb-compliance-for-financial-institutions/)
+- [FDX Compliance for Financial Institutions](https://ninth-wave.com/fdx-readiness-for-financial-institutions/)
+- [API Docs](https://ninth-wave.com/api-docs/)
+- [Open Finance Connectivity | Ninth Wave](https://ninth-wave.com/)
+- [360 | Comprehensive Financial Data Acquisition for Wealth Managers](https://ninth-wave.com/ninth-wave-platform/360-comprehensive-financial-data-acquisition-for-wealth-managers/)
+- [Direct | Embedded Finance Software for Your Business Customers](https://ninth-wave.com/ninth-wave-platform/direct-intelligent-embedded-finance-for-your-business-customers/)
+- [Team | Tom Fast](https://ninth-wave.com/team-tom-fast/)
+- [Connect | Open Banking API](https://ninth-wave.com/ninth-wave-platform/open-banking-api/)
+- [OLD Xero Integration](https://ninth-wave.com/ninth-wave-platform/old-xero-integration/)
+- [Ninth Wave Platform Integration](https://ninth-wave.com/ninth-wave-platform/embedded-finance/)
+- [Case Study - Improved Data Access for a Fintech Aggregator](https://ninth-wave.com/ninth-wave-case-study-improved-data-access-for-a-fintech-aggregator/)
+- [Case Study - Certification of Industry Standard Financial Services API Feeds](https://ninth-wave.com/ninth-wave-case-study-certification-of-industry-standard-financial-services-api-feeds/)
+- [Case Study - Data Aggregation for Ultra-High Net Worth Advisors](https://ninth-wave.com/ninth-wave-case-study-data-aggregation-for-ultra-high-net-worth-advisors/)
+- [Case Study - Empowering Property Management Clients With Integration to the Apps that Run Their Businesses](https://ninth-wave.com/ninth-wave-case-study-leading-business-bank-supports-property-management-clients-with-direct-integration-to-applications-that-run-their-business/)
+- [Case Study - Leading Business Bank Relies on Ninth Wave to Achieve ERP Connectivity](https://ninth-wave.com/ninth-wave-case-study-leading-business-bank-relies-on-ninth-wave-to-achieve-erp-connectivity/)
+- [Case Studies](https://ninth-wave.com/case-studies/)
+- [Request a Demo Thank You](https://ninth-wave.com/request-a-demo-thank-you/)
+- [Request a Demo](https://ninth-wave.com/request-a-demo/)
+- [Ninth Wave Platform Video](https://ninth-wave.com/the-ninth-wave-platform-video/)
+- [Contact Us Thank You](https://ninth-wave.com/contact-us-thank-you/)
+- [Contact Us](https://ninth-wave.com/contact-us/)
+- [Partners in Open Banking](https://ninth-wave.com/partners/)
+- [Our Company](https://ninth-wave.com/our-company/)
+- [Careers](https://ninth-wave.com/careers/)
+- [Board Members](https://ninth-wave.com/board/)
+- [Legal](https://ninth-wave.com/legal/)
+- [End User Privacy Policy](https://ninth-wave.com/privacy/)
+- [Tax &amp; Payroll Service API | Tax Prep Integration](https://ninth-wave.com/ninth-wave-platform/tax-services/)
+- [Credit Card Data API | Data Aggregation Software](https://ninth-wave.com/ninth-wave-platform/credit-card-issuers/)
+- [Wealth Management Data API](https://ninth-wave.com/ninth-wave-platform/wealth-management/)
+- [Retail Consumer Banking API](https://ninth-wave.com/ninth-wave-platform/retail-consumer-banking/)
+- [Team | Claudia Martinez](https://ninth-wave.com/team-claudia-martinez/)
+- [Team | Ray Higdon](https://ninth-wave.com/team-ray-higdon/)
+- [Team | Gotce Peev](https://ninth-wave.com/team-gotce-peev/)
+- [Team | Paul Allen](https://ninth-wave.com/team-paul-allen/)
+- [Team | Cameron Taylor](https://ninth-wave.com/team-cameron-taylor/)
+- [Team | Doug Bacon](https://ninth-wave.com/team-doug-bacon/)
+- [Team | Nanette Di Tosto](https://ninth-wave.com/team-nanette-di-tosto/)
+- [Team | Jack Cassaro](https://ninth-wave.com/team-jack-cassaro/)
+- [ERP Integration for Business and Venture Banking](https://ninth-wave.com/ninth-wave-platform/business-and-venture-banking/)
+- [Press](https://ninth-wave.com/press/)
+- [Ninth Wave Open Finance Blog](https://ninth-wave.com/blog/)
+- [Team | George Anderson](https://ninth-wave.com/team-george-anderson/)
+- [Leadership Team](https://ninth-wave.com/leadership-team/)
+- [The Ninth Wave Platform | Open Finance API](https://ninth-wave.com/ninth-wave-platform/)
+
+
+## Posts
+
+- [Ninth Wave Introduces Agentic Control Layer™ to Govern AI Access to Financial Account Data](https://ninth-wave.com/blog/agentic-control-layer-ai-financial-data/)
+- [Open Banking vs. Screen Scraping: What Financial Institution Leaders Need to Know](https://ninth-wave.com/blog/open-banking-vs-screen-scraping-2/)
+- [AI Agent Access Control and Protection Platforms for Banks](https://ninth-wave.com/blog/ai-agent-access-control-protection-platforms-banks/)
+- [The Connected Investor: A New Client Expectation and Business Opportunity for Banks and Wealth Management  ](https://ninth-wave.com/blog/connected-investor-wealth-management-connectivity/)
+- [The Hidden Cost of Open Finance Support — and How Managed Services Fixes It](https://ninth-wave.com/blog/the-hidden-cost-of-open-finance-support-and-how-managed-services-fixes-it/)
+- [Ninth Wave's AI-Powered Compass with Amazon Bedrock Cuts API Integration Time Up to 95%](https://ninth-wave.com/blog/ninth-waves-ai-powered-compass-with-amazon-bedrock-cuts-api-integration-time-up-to-95/)
+- [Ninth Wave Joins the Sage Marketplace Partner Program](https://ninth-wave.com/blog/ninth-wave-joins-the-sage-marketplace-partner-program/)
+- [Ten Open Finance Connectivity Platforms Reshaping How Banks Share Customer Data](https://ninth-wave.com/blog/ten-open-finance-connectivity-platforms-reshaping-how-banks-share-customer-data/)
+- [Ninth Wave and Backbase Partner to Bring Open Finance Connectivity to Commercial Banking](https://ninth-wave.com/blog/ninth-wave-and-backbase-partner-to-bring-open-finance-connectivity-to-commercial-banking/)
+- [Banks Are Missing Six Major Revenue Opportunities in Open Finance, New Report Finds](https://ninth-wave.com/blog/banks-missing-revenue-opportunities-open-finance/)
+- [How Banks Can Use Open Finance Data as a Competitive Intelligence Tool](https://ninth-wave.com/blog/open-finance-data-as-competitive-intelligence/)
+- [Ninth Wave Introduces Compass, an AI-Driven Onboarding Assistant that Radically Simplifies and Accelerates Open Finance Integration](https://ninth-wave.com/blog/ninth-wave-introduces-compass-an-ai-driven-onboarding-assistant/)
+- [85% of CFOs Would Switch Banks for a Direct Connection to Their ERP System, Ninth Wave Survey Finds](https://ninth-wave.com/blog/cfos-would-switch-banks-for-a-direct-connection/)
+- [Switch or Stay? How Direct Bank Connections Are Redefining Corporate Banking Loyalty](https://ninth-wave.com/blog/switch-or-stay-how-direct-bank-connections-are-redefining-corporate-banking-loyalty/)
+- [Narmi and Ninth Wave Partner to Deliver Open Finance Capabilities to Community Banks and Credit Unions](https://ninth-wave.com/blog/narmi-and-ninth-wave-partner/)
+- [Monetizing Open Finance Data with Managed Services](https://ninth-wave.com/blog/monetizing-open-finance-data-with-managed-services/)
+- [Open Finance: Hype versus Reality](https://ninth-wave.com/blog/open-finance-hype-versus-reality/)
+- [Ninth Wave Enables Banks to Monetize Open Finance Data Sharing](https://ninth-wave.com/blog/ninth-wave-enables-banks-to-monetize-open-finance-data-sharing/)
+- [Ninth Wave Launches Managed Services Division to Accelerate Open Finance Adoption](https://ninth-wave.com/blog/ninth-wave-launches-managed-services-division/)
+- [Enhancing Client Experience Through Wealth Management Integration](https://ninth-wave.com/blog/wealth-management-integration-client-experience/)
+- [How Ninth Wave Empowers Commercial Banking Customers](https://ninth-wave.com/blog/how-ninth-wave-empowers-commercial-banking-customers/)
+- [Candescent Extends Partnership with Ninth Wave](https://ninth-wave.com/blog/candescent-extends-partnership-with-ninth-wave/)
+- [How a Financial Services API Enhances Connectivity and Security](https://ninth-wave.com/blog/how-a-financial-services-api-enhances-connectivity-and-security/)
+- [Ninth Wave Announces Integration With Q2&#039;s Digital Banking Platform](https://ninth-wave.com/blog/ninth-wave-announces-integration-with-q2s-digital-banking-platform/)
+- [Embedded Finance Integration: Transforming Business Efficiency](https://ninth-wave.com/blog/embedded-finance-integration-transforming-business-efficiency/)
+- [Open Finance for Wealth Management](https://ninth-wave.com/blog/open-finance-for-wealth-management/)
+- [Why Open Banking is Here to Stay](https://ninth-wave.com/blog/why-open-banking-is-here-to-stay/)
+- [The Value of Open Finance Analytics](https://ninth-wave.com/blog/the-value-of-open-finance-analytics/)
+- [PODCAST: Breaking Banks: Gateway for Open Banking - with Plaid and Ninth Wave](https://ninth-wave.com/blog/podcast-breaking-banks-gateway-for-open-banking/)
+- [Ninth Wave Becomes Plaid’s Preferred Partner for Optimized Open Finance Connectivity and 1033 Compliance](https://ninth-wave.com/blog/ninth-wave-becomes-plaids-preferred-partner-for-optimized-open-finance-connectivity-and-1033-compliance/)
+- [Choosing the Best Customer Enrollment Models for FinTech Applications](https://ninth-wave.com/blog/choosing-the-best-customer-enrollment-models-for-fintech-applications/)
+- [Ninth Wave Secures Growth Funding to Expand Leading Open Finance Platform](https://ninth-wave.com/blog/ninth-wave-secures-growth-funding-to-expand-leading-open-finance-platform/)
+- [The Future of Financial Data Aggregation](https://ninth-wave.com/blog/the-future-of-financial-data-aggregation/)
+- [Ninth Wave Security Center – Enabling Secure Data Access and Control of Account Connections with Third-party Applications](https://ninth-wave.com/blog/ninth-wave-security-center-enabling-secure-data-access-and-control-of-account-connections-with-third-party-applications/)
+- [Ninth Wave Fintech Registry – Enabling Banks to Manage Risk Across the Fintech Ecosystem](https://ninth-wave.com/blog/ninth-wave-fintech-registry-enabling-banks-to-manage-risk-across-the-fintech-ecosystem/)
+- [Axos Bank Expands Relationship with Ninth Wave for Secure Open Finance Connectivity](https://ninth-wave.com/blog/axos-bank-expands-relationship-with-ninth-wave-for-secure-open-finance-connectivity/)
+- [Boost Sage Customer Satisfaction with Embedded Finance Integration](https://ninth-wave.com/blog/boost-sage-customer-satisfaction-with-embedded-finance-integration/)
+- [The Evolution of Data Sharing Part 3: Building on FDX to Achieve True Open Finance](https://ninth-wave.com/blog/the-evolution-of-data-sharing-part-3/)
+- [Ninth Wave Extends Open Finance Platform Capabilities Staying Ahead of CFPB Rules](https://ninth-wave.com/blog/ninth-wave-extends-open-finance-platform-capabilities-staying-ahead-of-cfpb-rules/)
+- [Sharing Financial Data Securely: What Compliance with CFPB&#039;s Personal Financial Data Rights Rule Means for Financial Institutions](https://ninth-wave.com/blog/sharing-financial-data-securely-what-compliance-with-cfpbs-personal-data-rights-rule-means-for-financial-institutions/)
+- [The Evolution of Data Sharing Part 2: Unlocking the True Value of Embedded Finance Beyond FDX](https://ninth-wave.com/blog/the-evolution-of-data-sharing-part-2-unlocking-the-true-value-of-embedded-finance-beyond-fdx/)
+- [How to Mitigate Compliance Risk With Automated Employee Trade Monitoring](https://ninth-wave.com/blog/how-to-mitigate-compliance-risk-with-automated-employee-trade-monitoring/)
+- [The Evolution of Data Sharing Part 1: From OFX’s Foundation to Today’s FDX](https://ninth-wave.com/blog/the-evolution-of-data-sharing-part-1-from-ofx-foundation-to-today-fdx/)
+- [Ninth Wave Attends Association of Financial Professionals (AFP) 2023](https://ninth-wave.com/blog/ninth-wave-attends-association-of-financial-professionals-2023/)
+- [Thinking About Monetizing APIs? Here Are 5 Key Things to Consider.](https://ninth-wave.com/blog/5-things-about-monetizing-apis/)
+- [How Banks Can Improve Customer Satisfaction With Enhanced Bill Payment Services for Consumers and Small Businesses](https://ninth-wave.com/blog/how-banks-can-improve-customer-satisfaction-enhance-bill-payment/)
+- [Wealth Management: How Family Offices Can Improve Service and Efficiency With Open Finance Solutions](https://ninth-wave.com/blog/how-family-offices-can-improve-service-and-efficiency-with-open-finance-solutions/)
+- [Customer Experience Remains the Top Focus for Companies Embracing Embedded Finance](https://ninth-wave.com/blog/customer-experience-remains-the-top-focus-for-companies-embracing-embedded-finance/)
+- [Demystifying the Proposed CFPB Rules: What Banks Need to Know Now](https://ninth-wave.com/blog/demystifying-the-proposed-cfpb-rules-what-banks-need-to-know-now/)
+- [The Value of Embedded Finance](https://ninth-wave.com/blog/the-value-of-embedded-finance/)
+- [Ninth Wave Demos NetSuite Payments Integration at Nacha Payments 2023](https://ninth-wave.com/blog/ninth-wave-demos-netsuite-payments-integration-at-nacha-payments-2023/)
+- [Why You Should Care About Your Business Banking Customers’ Reconciliation Processes](https://ninth-wave.com/blog/why-you-should-care-about-your-business-banking-customers-reconciliation-processes/)
+- [PRESS RELEASE: Ninth Wave Welcomes Tom Fast to Leadership Team](https://ninth-wave.com/blog/press-release-ninth-wave-welcomes-tom-fast-to-leadership-team/)
+- [PRESS RELEASE: Ninth Wave Announces Strategic Partnership with Dragonfly Financial Technologies](https://ninth-wave.com/blog/press-release-ninth-wave-announces-strategic-partnership-with-dragonfly-financial-technologies/)
+- [Ninth Wave Attends Association of Financial Professionals (AFP) 2022](https://ninth-wave.com/blog/ninth-wave-at-afp-2022/)
+- [Interview with the CEO](https://ninth-wave.com/blog/interview-with-the-ceo/)
+- [PRESS RELEASE: Ninth Wave Expands Its Board of Directors](https://ninth-wave.com/blog/ninth-wave-expands-its-board-of-directors/)
+- [PRESS RELEASE: Ninth Wave Adds Chief Revenue and Chief Product Officers to Leadership Team](https://ninth-wave.com/blog/ninth-wave-adds-chief-revenue-and-chief-product-officers-to-leadership-team/)
+- [Open Banking vs. Screen-Scraping](https://ninth-wave.com/blog/open-banking-vs-screen-scraping/)
+- [Nine Fintech Trends to Watch in 2022](https://ninth-wave.com/blog/nine-fintech-trends-to-watch-in-2022/)
+- [New Research Findings on Data Privacy and Financial App Usage](https://ninth-wave.com/blog/new-research-findings-on-data-privacy-and-financial-app-usage/)
+- [A Safer Alternative to Financial Data Aggregation](https://ninth-wave.com/blog/a-safer-alternative-to-financial-data-aggregation/)
+- [Finovate Returned to NYC and Ninth Wave Returned to Finovate](https://ninth-wave.com/blog/finovate-2021/)
+- [Global Banking &amp; Finance Review: Ninth Wave Upgrades Data Connectivity Platform with Support for FDX API Version 4.5](https://ninth-wave.com/blog/global-banking-finance-review-ninth-wave-upgrades-data-connectivity-platform-with-support-for-fdx-api-version-4-5/)
+- [How FIs Can Create a Culture of Trust by Empowering Customers with Full Control Over Their Financial Data](https://ninth-wave.com/blog/empowering-customers-full-control-over-financial-data/)
+- [PRESS RELEASE: Ninth Wave Upgrades Data Connectivity Platform with Support for FDX API Version 4.5](https://ninth-wave.com/blog/ninth-wave-upgrades-data-connectivity-platform-with-support-for-fdx-api-version-4-5/)
+- [Open Finance: The Key to Survival for Wealth Managers in the Era of COVID-19 (George Anderson Byline in the WealthManagement.com 2021 Market Outlook)](https://ninth-wave.com/blog/the-key-to-survival-for-wealth-managers-in-the-era-of-covid-19/)
+- [Parsing the Data Aggregation Landscape in the U.S. (Ninth Wave Featured in Celent Insights Report)](https://ninth-wave.com/blog/parsing-the-data-aggregation-landscape-in-the-u-s/)
+- [See Ninth Wave’s Demo From Finovate West](https://ninth-wave.com/blog/see-ninth-waves-demo-from-finovate-west/)
+- [PRESS RELEASE: Ninth Wave, the Open Finance Connectivity Leader, Announces New Collaboration with HOA-Software Provider Vantaca](https://ninth-wave.com/blog/ninth-wave-the-open-finance-connectivity-leader-announces-new-collaboration-with-hoa-software-provider-vantaca/)
+- [DEMO: Ninth Wave Demo at FinovateWest 2020](https://ninth-wave.com/blog/ninth-wave-demo-finovatewest-2020/)
+- [Why Data Transparency and Privacy are Critical to Your Open Banking/Open Finance Strategy](https://ninth-wave.com/blog/why-data-transparency-and-privacy-are-critical-to-your-open-banking-open-finance-strategy/)
+- [Ninth Wave Achieves SOC 2 Type 1 Certification](https://ninth-wave.com/blog/ninth-wave-achieves-soc-2-type-1-certification/)
+- [Highlights From Our Finovate Fall Keynote: Open Banking: Ignore at Your Own Peril](https://ninth-wave.com/blog/highlights-from-our-finovate-fall-keynote/)
+- [Open Finance: Say Goodbye to Screen Scraping with Open Finance](https://ninth-wave.com/blog/open-finance-say-goodbye-to-screen-scraping/)
+- [Bank to ERP Integration: Giving FIs an Edge in the Competitive Business Banking Market](https://ninth-wave.com/blog/bank-to-erp-integration/)
+- [Ninth Wave Goes “Virtual” for Fall Events](https://ninth-wave.com/blog/ninth-wave-goes-virtual-for-fall-events/)
+- [Three Key Ways to Build Greater Loyalty Among Business Banking Clients](https://ninth-wave.com/blog/three-key-ways-to-build-greater-loyalty-among-business-banking-clients/)
+- [The Connectivity Conundrum: How FIs Can Stay One Step Ahead](https://ninth-wave.com/blog/the-connectivity-conundrum/)
+- [Welcome to the Ninth Wave Blog](https://ninth-wave.com/blog/welcome-to-the-ninth-wave-blog/)
+- [PODCAST: Open Banking: The Path to FI Enablement](https://ninth-wave.com/blog/webcast-open-banking-the-path-to-fi-enablement/)
+- [PRESS RELEASE: Ninth Wave Expands Data Connectivity Leadership with Support for FDX API Version 4.0](https://ninth-wave.com/blog/press-release-ninth-wave-expands-data-connectivity-leadership-with-support-for-fdx-api-version-4-0-v2/)
+- [A Message from Our CEO Regarding COVID-19 Readiness](https://ninth-wave.com/blog/a-message-from-our-ceo-regarding-covid-19-readiness/)
+- [PODCAST: Ensuring Consumer Data Sharing Works for Financial Institutions and FinTechs of Every Size (FDX)](https://ninth-wave.com/blog/ensuring-consumer-data-sharing-works-for-financial-institutions-and-fintechs-of-every-size-fdx/)
+- [PODCAST: The Future of Open Banking](https://ninth-wave.com/blog/podcast-the-future-of-open-banking/)
+- [FDX Member Spotlight: Ninth Wave on Complexity Around Data Connectivity and Customer Demands](https://ninth-wave.com/blog/ninth-wave-on-complexity-around-data-connectivity-and-customer-demands/)
+- [DEMO: Ninth Wave Demo at FinovateFall 2019](https://ninth-wave.com/blog/ninth-wave-demo-at-finovatefall-2019/)
+- [PRESS RELEASE: Ninth Wave to Demo New App Management Features of its Platform at FinovateFall](https://ninth-wave.com/blog/ninth-wave-to-demo-new-app-management-features-of-its-platform-at-finovatefall-2/)
+- [PRESS RELEASE: Ninth Wave Closes Growth Investment from SARORAS Private Capital](https://ninth-wave.com/blog/ninth-wave-closes-growth-investment-from-saroras-private-capital-2/)
+- [PRESS RELEASE: Ninth Wave first to enable Open Banking with full support for Financial Data Exchange (FDX) API](https://ninth-wave.com/blog/ninth-wave-first-to-enable-open-banking-with-full-support-for-financial-data-exchange-fdx-api-2/)
+- [Banking CIO Outlook: Ninth Wave is Recognized as &quot;Top 10 FinTech Solutions Provider - 2018&quot;](https://ninth-wave.com/blog/ninth-wave-is-recognized-as-top-10-fintech-solutions-provider-2018/)
+- [PODCAST: Bank on IT: George Anderson from Enterprise Engineering and Ninth Wave](https://ninth-wave.com/blog/bank-on-it-podcast-george-anderson-from-enterprise-engineering-and-ninth-wave/)
+- [CIO Review: Enterprise Engineering, Inc. Launched Ninth Wave, a New Spinoff Software Company at Finovate Fall Summit](https://ninth-wave.com/blog/enterprise-engineering-inc-launched-ninth-wave-a-new-spinoff-software-company-at-finovate-fall-summit-2/)
+- [Silicon Review: Consolidating Financial Data for Easy Access](https://ninth-wave.com/blog/consolidating-financial-data-for-easy-access/)
+- [PYMNTS.com: Ninth Wave on Making Open Banking an Easier Pill for US Banks to Swallow](https://ninth-wave.com/blog/pymnts-com-ninth-wave-on-making-open-banking-an-easier-pill-for-us-banks-to-swallow/)
+- [PODCAST: Finovate-ing From Cradle to Grave (BigCast Network)](https://ninth-wave.com/blog/podcast-finovate-ing-from-cradle-to-grave/)
+- [PRESS RELEASE: Ninth Wave Announces a New Client Relationship with Bessemer Trust](https://ninth-wave.com/blog/ninth-wave-announces-a-new-client-relationship-with-bessemer-trust/)
+- [PRESS RELEASE: Ninth Wave Announces a New Client Relationship with Farm Credit Services of America](https://ninth-wave.com/blog/ninth-wave-announces-a-new-client-relationship-with-farm-credit-services-of-america/)
+- [PRESS RELEASE: Enterprise Engineering, Inc. Launches New Software Company, Ninth Wave](https://ninth-wave.com/blog/enterprise-engineering-inc-launches-new-software-company-ninth-wave/)
+- [PRESS RELEASE: Enterprise Engineering, Inc. to Spinoff Software Company, Ninth Wave, at FinovateFall Summit in New York City](https://ninth-wave.com/blog/enterprise-engineering-inc-to-spinoff-software-company-ninth-wave-at-finovatefall-summit-in-new-york-city/)
+- [DEMO: Ninth Wave Demo at FinovateFall 2018](https://ninth-wave.com/blog/ninth-wave-demo-at-finovatefall-2018/)
+
